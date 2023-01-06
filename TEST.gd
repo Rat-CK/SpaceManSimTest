@@ -25,6 +25,7 @@ func _process(delta):
 	time(delta)
 
 	
+	
 func time(delta):
 		
 	hour += 7
